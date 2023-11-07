@@ -5,7 +5,7 @@
 
 ### 🙋‍♂️ ABOUT ME  :
 
-- 👋 Hi, I’m Mohammed Ahmed @mo-frontend
+- 🤝 Hi, I’m Mohammed Ahmed @mo-frontend
 - 🔭 I’m currently working on a startup project I'll reveal to the world soon
 - 🌱 I’m currently learning Next JS and more JavaScript
 - 💬 Ask me about how we can work together. I excel in development with React/Next JS, technical writing, and copywriting, So, I can help you with those aspects of your business.
